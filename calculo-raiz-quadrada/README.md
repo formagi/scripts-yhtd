@@ -1,4 +1,4 @@
-# Cálculo de raíz quadrada pelo "Métdo de Júlia"
+# Cálculo de raíz quadrada pelo "Método de Júlia"
 Se você encontrou esse repositório ainda no ano de 2023, ou muito próximo disso, você deve ter visto sobre a Júlia, uma menina de 11 anos que apresentou uma sugestão alternativa para calcular a raíz quadrada de um número. O método foi apelidade de "Regressão de Júlia", ou ["Método de Júlia"](https://g1.globo.com/jornal-nacional/noticia/2023/11/10/aluna-de-11-anos-ajuda-a-desenvolver-formula-para-descobrir-raiz-quadrada-de-uma-nova-maneira.ghtml).
 
 Antes de tudo, vou tentar descrever o método, para entendermos melhor. Vamos tentar descobrir a raíz quadrada do número 169. Para isso, vou começar com um número próximo, do qual eu já conheço a raíz quadrada, no caso, o 100 (a raíz de 100 é 10). O método consistem em somar ao 100, o número 10, sua raíz, e próximo a este, o número 11, se o resultado da soma não for o número 169, repete-se o processo, com os números subsequentes. Veja no exemplo abaixo:

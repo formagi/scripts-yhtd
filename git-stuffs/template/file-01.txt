@@ -1,0 +1,3 @@
+abc=%CONF_01%
+def=123
+ghi=%CONF_02%

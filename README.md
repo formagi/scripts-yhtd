@@ -7,3 +7,8 @@ A sugestão é criar atividades que me instiguem a pensar e a escrever um pouco 
 Não defini nenhuma regra por ora, e creio que não o farei no futuro, mas penso em utilizar qualquer linguagem ou recurso disponível para escrever um pouco de código.
 
 Qualquer sugestão é sempre bem vinda, portanto, fique a vontade caso desejar submeter alguma PR, ou me enviar qualquer crítica.
+
+## Atividades
+
+- [Cálculo de raíz quadrada pelo "Método de Júlia"](./calculo-raiz-quadrada/README.md)
+- [Crivo de Erastótenes](./crivo-de-erastotenes/README.md)

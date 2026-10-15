@@ -12,3 +12,4 @@ Qualquer sugestão é sempre bem vinda, portanto, fique a vontade caso desejar s
 
 - [Cálculo de raíz quadrada pelo "Método de Júlia"](./calculo-raiz-quadrada/README.md)
 - [Crivo de Erastótenes](./crivo-de-erastotenes/README.md)
+- [Conjectura de Collatz](./conjectura-de-collatz/README.md)

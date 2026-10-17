@@ -1,15 +1,21 @@
-# Scripts you have to do
+# puzzebook
 
-Vou usar deste repo para exercitar um pouco de programação, com ideias que sejam interessantes para mim.
+Coleção de soluções didáticas para problemas matemáticos, lógicos e algorítmicos.
 
-A sugestão é criar atividades que me instiguem a pensar e a escrever um pouco de código.
+## Objetivo
 
-Não defini nenhuma regra por ora, e creio que não o farei no futuro, mas penso em utilizar qualquer linguagem ou recurso disponível para escrever um pouco de código.
+Reunir scripts com soluções para problemas conhecidos, com o intuito de exercitar o raciocínio lógico e o desenvolvimento de algoritmos. Cada exemplo é uma oportunidade prática: compreender o problema, elaborar uma abordagem e implementar uma solução funcional.
 
-Qualquer sugestão é sempre bem vinda, portanto, fique a vontade caso desejar submeter alguma PR, ou me enviar qualquer crítica.
-
-## Atividades
+## Problemas resolvidos
 
 - [Cálculo de raíz quadrada pelo "Método de Júlia"](./calculo-raiz-quadrada/README.md)
 - [Crivo de Erastótenes](./crivo-de-erastotenes/README.md)
 - [Conjectura de Collatz](./conjectura-de-collatz/README.md)
+
+## Motivação
+
+Manter um caderno prático de exercícios resolvidos — simples, direto e útil para revisões, experimentos e treino em diferentes linguagens.
+
+## Contribuindo
+
+Sugestões de novos problemas, melhorias nas soluções ou correções são sempre bem-vindas. Fique à vontade para abrir uma *issue* ou enviar um *pull request*.
